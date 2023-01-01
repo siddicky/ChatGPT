@@ -1,9 +1,9 @@
 [package]
 name = "chatgpt"
 version = "0.0.0"
-authors = ["lencx <cxin1314@gmail.com>"]
+authors = ["siddicky <abdullah.siddique94@gmail.com>"]
 description = "ChatGPT Desktop Application"
-repository = "https://github.com/lencx/ChatGPT"
+repository = "https://github.com/siddicky/ChatGPT"
 license = "MIT"
 edition = "2021"
 rust-version = "1.57"
